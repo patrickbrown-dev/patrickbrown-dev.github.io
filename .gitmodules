@@ -1,0 +1,3 @@
+[submodule "patrickbrown-dev"]
+	path = patrickbrown-dev
+	url = git@github.com:patrickbrown-dev/patrickbrown-dev.git
