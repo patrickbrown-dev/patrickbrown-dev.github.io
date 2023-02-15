@@ -1,0 +1,18 @@
+title: patrickbrown-dev.github.io
+
+author:
+  name: Pat Brown
+  email: hello@patrickbrown.dev
+
+description: ""
+
+theme: minima
+plugins:
+  - jekyll-feed
+
+minima:
+  skin: auto
+  social_links:
+  - { platform: github,  user_url: "https://github.com/patrickbrown-dev" }
+  - { platform: mastodon, user_url: "https://ruby.social/@patbrown" }
+
