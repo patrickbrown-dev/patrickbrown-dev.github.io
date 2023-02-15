@@ -1,6 +1,6 @@
 title: patrickbrown-dev.github.io
 
-name: Pat Brown
+author: Pat Brown
 email: hello@patrickbrown.dev
 
 description: ""
@@ -9,7 +9,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-github: patrickbrown-dev
+github_username: patrickbrown-dev
 mastodon:
  - username: patbrown
    instance: ruby.social
